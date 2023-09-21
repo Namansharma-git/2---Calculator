@@ -64,7 +64,7 @@ button{
     .calculator{
         flex-direction: column;
         background-color: #6b4545;
-        width: fit-content;
+        margin:auto;
     }
     
 }
